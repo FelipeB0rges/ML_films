@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.log
+
+# Virtual environment
+venv/
+
+# Datasets
+tmdb_5000_movies.csv
+MovieGenre.csv
+
+# Generated content
+posters/
+graficos/
+*.pptx
+RELATORIO*.md
